@@ -90,24 +90,5 @@ Notes-API/
 │   └── requirements.txt
 ├── app.db
 └── README.md
+
 ```
-
-## Why this README is written this way
-
-This README focuses on clarity and practical setup. It tells someone exactly what the project does, how the code is organized, and how to run it. That is what employers and team members expect to see in a real project.
-
-## How to write a good README
-
-1. Start with a short project summary.
-2. Describe the main features.
-3. List the technologies used.
-4. Provide clear setup and run instructions.
-5. Explain the folder structure briefly.
-6. Keep it short, but useful.
-
-## Learning advice
-
-- Read the project files in the order shown in this README.
-- Practice adding one new endpoint at a time.
-- Use the API docs at `/docs` to understand request and response formats.
-- Update the README as you add features.
